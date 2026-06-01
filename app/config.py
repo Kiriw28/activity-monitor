@@ -1,0 +1,16 @@
+WORK_APPS = {
+    "Code.exe",
+    "brave.exe",
+    "chrome.exe",
+    "firefox.exe",
+    "WindowsTerminal.exe",
+    "powershell.exe",
+    "cmd.exe",
+    "pycharm64.exe",
+    "idea64.exe",
+    "devenv.exe",
+    "Postman.exe",
+    "Docker Desktop.exe",
+    "vmware.exe",
+    "notepad++.exe",
+}

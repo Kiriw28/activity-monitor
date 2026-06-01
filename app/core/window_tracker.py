@@ -14,7 +14,6 @@ def get_active_window_info():
 
 
     return {
-        "pid": pid,
         "process_name": process_name,
         "window_title": title_window
     }
