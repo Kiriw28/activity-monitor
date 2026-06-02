@@ -1,0 +1,47 @@
+[
+    {
+        "process_name": "WindowsTerminal.exe",
+        "window_title": "Windows PowerShell",
+        "duration_one_session": 6
+    },
+    {
+        "process_name": "Code.exe",
+        "window_title": "main.py - Untitled (Workspace) - Visual Studio Code",
+        "duration_one_session": 6
+    },
+    {
+        "process_name": "WindowsTerminal.exe",
+        "window_title": "Windows PowerShell",
+        "duration_one_session": 6
+    },
+    {
+        "process_name": "brave.exe",
+        "window_title": "Продолжение с Window Tracker – Brave",
+        "duration_one_session": 3
+    },
+    {
+        "process_name": "explorer.exe",
+        "window_title": "",
+        "duration_one_session": 3
+    },
+    {
+        "process_name": "WindowsTerminal.exe",
+        "window_title": "Windows PowerShell",
+        "duration_one_session": 3
+    },
+    {
+        "process_name": "Code.exe",
+        "window_title": "activities.json - Untitled (Workspace) - Visual Studio Code",
+        "duration_one_session": 3
+    },
+    {
+        "process_name": "WindowsTerminal.exe",
+        "window_title": "Windows PowerShell",
+        "duration_one_session": 3
+    },
+    {
+        "process_name": "Code.exe",
+        "window_title": "activities.json - Untitled (Workspace) - Visual Studio Code",
+        "duration_one_session": 3
+    }
+]
